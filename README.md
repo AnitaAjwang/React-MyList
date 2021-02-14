@@ -1,4 +1,5 @@
 # To do list built with ReactJs
+This application was created with deep props sharing.
 
 You can add and delete tasks
 
